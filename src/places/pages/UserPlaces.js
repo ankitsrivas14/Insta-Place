@@ -11,7 +11,7 @@ const DUMMY_PLACES = [
       'The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the "ceremonial axis" of New Delhi, formerly called Kingsway.',
     imageUrl:
       "https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-    addresss: "Rajpath, India Gate, New Delhi, Delhi 110001",
+    address: "Rajpath, India Gate, New Delhi, Delhi 110001",
     location: {
       lat: "28.6129167",
       long: "77.2273157",
@@ -25,7 +25,7 @@ const DUMMY_PLACES = [
       "The Red Fort is a historic fort in the city of Delhi in India that served as the main residence of the Mughal Emperors.",
     imageUrl:
       "https://images.pexels.com/photos/4119592/pexels-photo-4119592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-    addresss:
+    address:
       "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006",
     location: {
       lat: "28.6561639",
