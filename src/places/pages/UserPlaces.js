@@ -13,8 +13,8 @@ const DUMMY_PLACES = [
       "https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     address: "Rajpath, India Gate, New Delhi, Delhi 110001",
     location: {
-      lat: "28.6129167",
-      long: "77.2273157",
+      lat: 28.6129167,
+      lng: 77.2273157,
     },
     creator: "u1",
   },
@@ -28,8 +28,8 @@ const DUMMY_PLACES = [
     address:
       "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006",
     location: {
-      lat: "28.6561639",
-      long: "77.2388263",
+      lat: 28.6561639,
+      lng: 77.2388263,
     },
     creator: "u2",
   },
