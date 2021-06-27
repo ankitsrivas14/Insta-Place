@@ -91,8 +91,7 @@ const UpdatePlace = () => {
         </Card>
       </div>
     );
-  }
-  if (isLoading) {
+  } else if (isLoading) {
     return (
       <div className="center">
         <h2>Loading...</h2>
